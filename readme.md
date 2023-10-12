@@ -18,6 +18,8 @@ The dataset is divided into variants and text for training and test datasets. It
 - **Class:** A numerical classification of the genetic mutation (1-9).
 - **Text:** Clinical evidence used to classify the genetic mutation.
 
+> Note: files>100 mb are excluded
+
 ---
 
 ## Tech Stack
