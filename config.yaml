@@ -1,0 +1,9 @@
+# Load data
+mono_host: "mongodb+srv://admin:username@xyz"
+# The MongoDB server connection string. Modify this to your actual MongoDB connection string.
+
+figuers_path: 'figures'
+# The path where figures or visualizations generated during data analysis will be saved.
+
+min_df_value: 400
+# The threshold value for term frequency when extracting text features.
