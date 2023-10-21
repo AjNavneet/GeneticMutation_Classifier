@@ -10,6 +10,8 @@ In this project, we create features from medical literature data and develop a m
 ## Aim
 The primary objective of this project is to classify genetic mutations into nine classes based on medical literature.
 
+---
+
 ## Data Description
 The dataset is divided into variants and text for training and test datasets. It includes the following features:
 - **ID:** The row identifier linking mutations to clinical evidence.
@@ -18,13 +20,15 @@ The dataset is divided into variants and text for training and test datasets. It
 - **Class:** A numerical classification of the genetic mutation (1-9).
 - **Text:** Clinical evidence used to classify the genetic mutation.
 
-> Note: files>100 mb are excluded
+> Note: files >100 mb are excluded
 
 ---
 
 ## Tech Stack
 - **Language:** Python
 - **Libraries:** pymongo[srv] (used for database connectivity)
+
+---
 
 ## Approach
 - **Data Reading**
@@ -45,9 +49,12 @@ The dataset is divided into variants and text for training and test datasets. It
 ---
 
 ## Concepts explored
-This project covers various aspects:
+
 1. Text preprocessing steps, including lemmatization, tokenization, and using "Tfidf Vectorizer" for word relationships
 2. Data splitting into training, testing, and validation sets
 3. Multi-class classification
-4. Understanding evaluation metrics such as Log Loss and Confusion Matrix
+4. Evaluation metrics such as Log Loss and Confusion Matrix
 5. Implementations of machine learning models, including Logistic Regression, KNN, Random Forest, and Naive Bayes.
+
+---
+
