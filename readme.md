@@ -1,4 +1,4 @@
-# Genetic Mutations Classification
+# Genetic Mutations Multi-Class Classification
 
 ## Project Overview
 Cancer tumors can have thousands of genetic mutations, making it challenging to distinguish driver mutations that contribute to tumor growth from passenger mutations. Currently, clinical pathologists manually interpret genetic mutations based on text-based clinical literature, which is a time-consuming process. Machine learning offers a solution to expedite this task with high accuracy.
