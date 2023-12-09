@@ -48,13 +48,3 @@ The dataset is divided into variants and text for training and test datasets. It
 
 ---
 
-## Concepts explored
-
-1. Text preprocessing steps, including lemmatization, tokenization, and using "Tfidf Vectorizer" for word relationships
-2. Data splitting into training, testing, and validation sets
-3. Multi-class classification
-4. Evaluation metrics such as Log Loss and Confusion Matrix
-5. Implementations of machine learning models, including Logistic Regression, KNN, Random Forest, and Naive Bayes.
-
----
-
